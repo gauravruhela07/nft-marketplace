@@ -1,4 +1,4 @@
-import { Text } from 'react-native';
+import { Text, View, Image, ImageInput } from 'react-native';
 
 const Details = () => {
   return (
